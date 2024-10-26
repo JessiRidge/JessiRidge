@@ -1,8 +1,10 @@
 - 👋  Hi, I'm Jessi. I have a varied background. I have two degrees in Percussion Performace and perform as a professional orchestra musician every week with the orchestra in Tampa, Florida. I graduated with a Master of Music degree in Percussion Performance from New England Conservatory in Boston, MA. I also have studied accounting and computer science at the University of South Florida. In addition to my performance schedule, I am currently working freelance from my home office and continue to take courses to further my programming skills.
 
-- 👀  I’m interested in backend web development.
+- 👀  I’m interested in backend web development, cloud, and container technologies.
  
 - 🌱  Currently working in: HTML, CSS, JavaScript, and Python. As well as: Bootstrap, Flexbox, ReactJS, NodeJS, PostgreSQL, and MongoDB.
+
+- 📖  Currently studying Kubernetes (Linux Foundation Certificate Program)
   
 - 💞️  I’m looking to collaborate on any projects that will help me improve my skills and apply for new employment. I'm willing to relocate or work remotely.
   
