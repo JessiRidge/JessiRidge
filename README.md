@@ -4,7 +4,7 @@
  
 - 🌱  Currently working in: HTML, CSS, JavaScript, and Python. As well as: Bootstrap, Flexbox, ReactJS, NodeJS, PostgreSQL, and MongoDB.
 
-- 📖  Currently studying Kubernetes (Linux Foundation Certificate Program)
+- 📖  Studying Kubernetes (Linux Foundation Certificate Program)
   
 - 💞️  I’m looking to collaborate on any projects that will help me improve my skills and apply for new employment. I'm willing to relocate or work remotely.
   
