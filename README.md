@@ -1,4 +1,4 @@
-- 👋  Hi, I'm Jessi. I have a varied background. I have two degrees in Percussion Performace and perform as a professional orchestra musician every week with the orchestra in Tampa, Florida. I graduated with a Master of Music degree in Percussion Performance from New England Conservatory in Boston, MA. I have recorded on, engineered, and produced recordings for various artists (including myself). I also have studied accounting and computer science at the University of South Florida. In addition to my performance schedule, I am currently working freelance from my home office and continue to take courses to further my programming skills.
+- 👋  Hi, I'm Jessica (Jessi). I have a varied background. I have two degrees in Percussion Performace and perform as a professional orchestra musician every week with the orchestra in Tampa, Florida. I graduated with a Master of Music degree in Percussion Performance as a scholarship student from New England Conservatory in Boston, MA. I have performed with, recorded on, engineered, and produced recordings for various artists in the pop, rock, and classical genres. I also studied accounting and computer science at the University of South Florida. In addition to my performance schedule, I am currently working freelance from my home office and continue to take courses to further my programming skills.
 
 - 👀  I’m interested in backend web development, cloud, and container technologies.
  
@@ -12,7 +12,7 @@
   
 - 😄  Pronouns: she/her 
   
-- ⚡  Fun facts: I love to play chess and solve puzzles. I also enjoy practicing yoga, traveling, and going hiking in the mountains whenever I have time available. I have two sweet orange tabby cats that are my babies.
+- ⚡  Fun facts: I love to play chess and solve puzzles. I also enjoy meditating, practicing yoga, traveling, and going hiking in the mountains whenever I have time available. I have two sweet orange tabby cats that are my babies.
 
 <!---
 JessiRidge/JessiRidge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
