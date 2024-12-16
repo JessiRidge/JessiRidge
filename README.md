@@ -1,8 +1,8 @@
-- 👋  Hi, I'm Jessica (Jessi). I have a varied background. I have two degrees in Percussion Performace and perform as a professional orchestra musician every week with the orchestra in Tampa, Florida. I graduated with a Master of Music degree in Percussion Performance as a scholarship student from New England Conservatory in Boston, MA. I have performed with, recorded on, engineered, and produced recordings for various artists in the pop, rock, and classical genres. I also studied accounting and computer science at the University of South Florida. In addition to my performance schedule, I am currently working freelance from my home office and continue to take courses to further my programming skills.
+- 👋  Hi, I'm Jessica. I have a varied background. I have two degrees in Percussion Performace and perform as a professional orchestra musician every week with the orchestra in Tampa, Florida. I graduated with a Master of Music degree in Percussion Performance as a scholarship recipient from New England Conservatory in Boston, MA. I have performed with, recorded on, engineered, and produced recordings for various artists in the pop, rock, and classical genres. I also have studied accounting and computer science at the University of South Florida. In addition to my performance schedule, I also work from my home office and continue to take courses to further my programming skills.
 
 - 👀  I’m interested in backend web development, cloud, and container technologies.
  
-- 🌱  Currently working in: HTML, CSS, JavaScript, and Python. As well as: Bootstrap, Flexbox, ReactJS, NodeJS, PostgreSQL, and MongoDB.
+- 🌱  Currently working in: HTML, CSS, JavaScript, and Python. As well as: Bootstrap, Flexbox, ReactJS, NodeJS, and PostgreSQL.
 
 - 📖  Studying Kubernetes (Linux Foundation Certificate Program)
   
